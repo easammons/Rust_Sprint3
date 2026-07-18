@@ -40,6 +40,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Add support for exponents (^) and modulo (%)
+* [ ] Add variable assignment, e.g. x = 5 followed by x + 2
+* [ ] Add support for functions like sqrt(), sin(), cos()
